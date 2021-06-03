@@ -1,6 +1,10 @@
 # plain-github-pages
 
-A minimal live demo for GitHub Pages.
+A minimal live demo of GitHub Pages.
+
+## Purpose of this repo
+
+- Create a live demo for GitHub Pages for my own reference.
 
 ## Links
 
