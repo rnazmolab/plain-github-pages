@@ -1,5 +1,7 @@
 # plain-github-pages
 
+A minimal live demo for GitHub Pages.
+
 ## Links
 
 ### The GitHub Pages
